@@ -43,13 +43,19 @@ It demonstrates real-world DBMS concepts including relationships, constraints, t
 
 ---
 
+## 🗂️ ER Diagram
+
+![ER Diagram](./ER_Diagram.png)
+
+---
+
 ## 📁 Project Structure
 - schema.sql → Database structure
 - sample_data.sql → Sample data
 - queries.sql → SQL queries
 - triggers_procedures.sql → Triggers & procedures
 
-
+---
 
   ## 📊 Project Presentation
 
