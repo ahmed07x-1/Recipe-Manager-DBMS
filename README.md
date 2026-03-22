@@ -49,6 +49,13 @@ It demonstrates real-world DBMS concepts including relationships, constraints, t
 - queries.sql → SQL queries
 - triggers_procedures.sql → Triggers & procedures
 
+
+
+  ## 📊 Project Presentation
+
+📂 Download the complete project presentation:  
+👉 [Recipe Manager PPT](./Recipe_Manager_Presentation.pptx)
+
 ---
 
 ## 🚀 How to Run
